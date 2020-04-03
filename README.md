@@ -1,4 +1,4 @@
 <h1>
-[The Statcord Library Has Moved](https://github.com/labdiscord/statcord.py) 
+<a href="https://github.com/labdiscord/statcord.py">The Statcord Library Has Moved</a>
 </h1>
 [github.com/labdiscord/statcord.py](https://github.com/labdiscord/statcord.py)
